@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<%@ page isELIgnored="false" %>
 	<title>Spring 4 MVC Hello World Example with Maven Eclipse</title>
 	<link rel='stylesheet' href='<c:url value="/resources/css/style.css" />' type='text/css' media='all' /> 
 </head>
